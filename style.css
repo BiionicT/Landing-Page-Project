@@ -16,7 +16,8 @@ body {
     color: #e5e7eb;
     display: flex;
     align-items: flex-start;
-    padding-right: 20px;
+    padding-left: 285px;
+    padding-right: 305px;
     border: 40px;
   }
 
@@ -50,8 +51,8 @@ li{
   flex-direction: column;
   flex: 1;
   flex-wrap: wrap;
-  padding-left: 275px;
-  padding-right: 275px;
+  padding-left: 225px;
+  padding-right: 225px;
 }
 .herotext{
   align-items: center;
@@ -77,6 +78,8 @@ font-weight: bold;
 .herocontent img{
   margin-top: 55px;
   margin-left: 50px;
+  width: 740px;
+  height: 225px;
 }
 .herocontent h1{
   inline-size: 270px;
@@ -106,6 +109,7 @@ overflow-wrap: normal;
 
 .labeled-photos img{
   border:3px solid rgb(93, 170, 214);
+  border-radius: 8px;
 }
 
 .quote{
